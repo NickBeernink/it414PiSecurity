@@ -1,0 +1,84 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.mainDiv {
+    background-color: darkslategrey;
+    color: white;
+    border: thick;
+    border-color: white;
+    height: auto;
+    width: 1170px;
+    align-content: center;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+th {
+    text-align: center;
+    align-content: center;
+}
+
+.hdr {
+    text-align: center;
+}
+
+.liveFeedBtn {
+    background-color: black;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    width: 1170px;
+}
+
+.picBtn {
+    background-color: black;
+    align-content: center;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    width: 1170px;
+}
+
+.logBtn {
+    background-color: black;
+    align-content: center;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    width: 1170px;
+}
+
+.logTable {
+    margin: 0 auto;
+    background: black;
+}
+.goBkBtn {
+    font-size: 2.3em;
+}
+
+.border {
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+}
+
+
+Read more: https://html.com/attributes/img-border/#ixzz5l6c8cfF7
+
+}
