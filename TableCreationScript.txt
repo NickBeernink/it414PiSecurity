@@ -1,0 +1,6 @@
+CREATE TABLE PiPictures (
+	ImgId int not null IDENTITY PRIMARY KEY,
+	CameraName varchar(50),
+	ImgDate DateTime,
+	Picture varchar(200),
+);
